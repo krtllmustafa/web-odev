@@ -1,0 +1,158 @@
+body {
+    background-color: #222222;
+    margin: 0;
+    padding: 0;
+    height: 3500px;
+  }
+#anasayfa{
+    margin-top: 20px;
+}
+#hakkimda{
+  margin-top: 280px;
+} 
+#projeler{
+  margin-top: 280px;
+}
+#yetenekler{
+  margin-top: 280px;
+}
+.orta2{
+position: absolute;
+top: 50%;
+left: 60%;
+color: white; 
+font-size: 65px;
+font-family: 'Oooh Baby', cursive;
+}
+.orta{
+font-family: 'Kanit', sans-serif ;
+position: absolute;
+top: 40%;
+left: 50%;
+color: white;
+font-size: 65px;
+}
+.yuvarlak{
+  float: right;
+  margin-top: 45px;
+}
+.bykyuvarlak{
+  float: left;
+  margin-top: 25px ;
+}
+.bykyuvarlak1{
+  float: right;
+  margin-top: 25px ;
+}
+.resim{
+  margin-left: 20px;
+  margin-top: 75px;
+  width: 400px;
+  height: 400px;
+}
+.genel{
+  padding-top: 100px;
+  text-align: center;
+  color: white;
+  font-size: 30px; 
+}
+.hakkımda{
+  text-align: center;
+  color: white;
+  font-family: 'Kanit', sans-serif ;
+}
+.açıklama{
+  font-family: 'Roboto Slab', serif;
+}
+.kutu{
+  background-color: #151515 ;
+  padding: 100px;
+}
+  .navbar {
+    font-family: 'Kanit', sans-serif ;
+    font-size: 20px;
+    background-color: #222222;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+  }
+  
+  .navbar-brand a {
+    margin-left: 0px;
+    margin-top: -25px;
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+  }
+  
+  .navbar-links {
+    display: flex;
+    align-items: center;
+    margin-right: 55px;
+  }
+  
+  .navbar-links a {
+    margin-right: 70px;
+    text-decoration: none;
+    color: white;
+  }
+  .card-container {
+    display: flex;    
+
+  }
+  
+  .card {
+
+    flex-basis: 33.33%;
+    padding: 20px;
+    background-color: #151515;
+    text-align: center;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .card h3 {
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .card p {
+    color: #777;
+  }
+.yazılım{
+  text-align: center;
+  color: white;
+  background-color: #151515;
+}
+  .card-container2 {
+    display: flex;
+  }
+  
+  .card2 {
+    margin-top: 100px;
+    flex-basis: 20%;
+    padding: 20px;
+    background-color: #151515;
+    text-align: center;
+    
+  }
+  
+  .card2 img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .card2 h3 { 
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .card2 p {
+    color: #777;
+  }
